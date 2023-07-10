@@ -1192,8 +1192,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameStarted: 0
   score: 0
-  scoreText: {fileID: 0}
-  highScoreText: {fileID: 0}
+  scoreText: {fileID: 1499400854}
+  highScoreText: {fileID: 976030249}
 --- !u!4 &1773202000
 Transform:
   m_ObjectHideFlags: 0
